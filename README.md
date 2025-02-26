@@ -75,7 +75,7 @@ This Python script gathers and displays detailed information about your PC's har
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-visiuun/pc-info-gatherer.git
+    git clone https://github.com/visiuun/pc-info-gatherer.git
     cd pc-info-gatherer
     ```
 
